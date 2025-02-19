@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/NEWMODDING_Wide.png"
 tags: [Page]
 ---
 
